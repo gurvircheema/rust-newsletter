@@ -3,3 +3,4 @@ application:
 database:
   username: "gurvircheema"
   password: "password"
+  require_ssl: false
