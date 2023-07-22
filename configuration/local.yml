@@ -4,3 +4,6 @@ database:
   username: "gurvircheema"
   password: "password"
   require_ssl: false
+email_client:
+  base_url: localhost
+  sender_email: test@gmail.com
